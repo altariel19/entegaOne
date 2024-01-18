@@ -1,0 +1,115 @@
+[
+	{
+		"title": "Remera",
+		"description": "Color blanco",
+		"price": 14.000,
+		"thumbnail": "/images/remera1.jpg",
+		"code": "01",
+		"stock": 10,
+		"category": "Ropa",
+		"estado": true,
+		"id": 1
+	},
+	{
+		"title": "Pantalon",
+		"description": "Color gris",
+		"price": 24.000,
+		"thumbnail": "/images/pantalon1.jpg",
+		"code": "02",
+		"stock": 20,
+		"category": "Ropa",
+		"estado": true,
+		"id": 2
+	},
+	{
+		"title": "Campera",
+		"description": "Color negra",
+		"price": 40.000,
+		"thumbnail": "/images/campera1.jpg",
+		"code": "03",
+		"stock": 30,
+		"category": "Ropa",
+		"estado": true,
+		"id": 3
+	},
+	
+	{
+		"title": "Buzo",
+		"description": "Color rosa",
+		"price": 19.000,
+		"thumbnail": "/images/buzo1.jpg",
+		"code": "04",
+		"stock": 9,
+		"category": "Ropa",
+		"estado": true,
+		"id": 4
+	},
+	{
+		"title": "Musculosa",
+		"description": "Color negro",
+		"price": 10.000,
+		"thumbnail": "/images/musculosa1.jpg",
+		"code": "05",
+		"stock": 10,
+		"category": "Ropa",
+		"estado": true,
+		"id": 5
+	},
+	{
+		"title": "Pantalon",
+		"description": "Color blanco",
+		"price": 25.000,
+		"thumbnail": "/images/pantalon2.jpg",
+		"code": "06",
+		"stock": 20,
+		"category": "Ropa",
+		"estado": true,
+		"id": 6
+	},
+	{
+		"title": "Chaleco",
+		"description": "Color marron",
+		"price": 16.000,
+		"thumbnail": "/images/chaleco1.jpg",
+		"code": "07",
+		"stock": 10,
+		"category": "Ropa",
+		"estado": true,
+		"id": 7
+	},
+	{
+		"title": "Falda",
+		"description": "Color blanco",
+		"price": 11.000,
+		"thumbnail": "/images/falda1.jpg",
+		"code": "08",
+		"stock": 13,
+		"category": "Ropa",
+		"estado": true,
+		"id": 8
+	},
+	{
+		"title": "Short",
+		"description": "Color azul",
+		"price": 14.000,
+		"thumbnail": "/images/short1.jpg",
+		"code": "09",
+		"stock": 33,
+		"category": "Ropa",
+		"estado": true,
+		"id": 9
+	},
+	{
+		"title": "Vestido",
+		"description": "Color verde",
+		"price": 35.000,
+		"thumbnail": "/images/vestido1.jpg",
+		"code": "10",
+		"stock": 11,
+		"category": "Ropa",
+		"estado": true,
+		"id": 10
+	}
+	
+
+]
