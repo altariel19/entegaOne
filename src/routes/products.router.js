@@ -34,7 +34,7 @@ router.get('/products/:pid',(req,res)=>{
     };
 })
 
-router.post('/products', (req, res) => {
+router.put('/products', (req, res) => {
     const { title, description, code, price, stock, category, /* estado,  */thumbnail } = req.body;
     
 
@@ -59,7 +59,7 @@ router.post('/products', (req, res) => {
 
 })
 
-router.post('/products/:pid', (req, res) => {
+router.put('/products/:pid', (req, res) => {
     let id = req.params.pid;
     id = parseInt(id);
 
@@ -92,7 +92,7 @@ router.post('/products/:pid', (req, res) => {
     }
 });
 
-router.delete('/delete/:pid', (req, res) => {
+router.delete('/products/:pid', (req, res) => {
     let id = req.params.pid;
     id = parseInt(id);
 
